@@ -45,9 +45,12 @@ screen to be pushed off the top of the board and wrap around to the bottom of th
 board, as seen below.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "600">
+<br>
+<br>
 
+Upon completing the game, the app displays the congratulatory message shown below!
 
-
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/c8938738-46b1-4e9c-ad5d-7e42ea7b2cb1" width = "600">
 
 
 In order to run this app, create a react app and replace the src with the one provided here. It is also neccessary to import the svg file in the repository public folder into the app's public folder. The app should then be useable via the npm start command.
