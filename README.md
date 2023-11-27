@@ -10,7 +10,7 @@ Below is what the app looks like upon launch; the 5x5 is the default configurati
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "500">
 <br>     
-
+<br>
 
 Below is what the board looks like after moving left. The two blue squares on the left side of the ninja have been pushed as a result of the ninja's movement. The move count has been increased by one. The score keeps track of how many colored squares the ninja has pushed. In this case, moving left caused two colored squares to move, so the score increases by two. The left, up, and right buttons are now active, and because there is a 2x2 group of blue squares next to the ninja the remove button also becomes active.      
 
