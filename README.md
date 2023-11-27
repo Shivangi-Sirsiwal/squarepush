@@ -37,6 +37,14 @@ The ninja is also able to push colors off the screen, for example if the game is
 below, the ninja is still able to move up.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/1f244e81-a7e0-4319-a001-d9b5ee186045" width = "600">
+<br>
+<br>
+
+Moving the ninja up causes the two red blocks that were previously at the top of the screen <br>
+to be pushed off the top of the board and wrap around to the bottom of the board.
+
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "600">
+
 
 
 
