@@ -12,7 +12,7 @@ This is what the app looks like upon launch; the 5x5 is the default configuratio
 <br clear="left"/>
 This is what the board looks like after moving left.
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "500">
+<img align = "left" src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "500">
 
 
 
