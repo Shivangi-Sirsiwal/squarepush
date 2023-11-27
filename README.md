@@ -6,7 +6,7 @@ squarepush is a game where the user can move a ninja charecter around a grid, pu
 
 ## Playing the Game
 
-Below is what the app looks like upon launch; the 5x5 is the default configuration,
+Below is what the app looks like upon launch; the 5x5 is the default configuration, <br>
 so that is the one that is automatically displayed. The ninja can not leave the
 board, so only the up and left buttons are active.    
 
