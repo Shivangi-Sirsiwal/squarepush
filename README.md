@@ -10,7 +10,7 @@ Below is what the app looks like upon launch; the 5x5 is the default configurati
 that is the one that is automatically displayed. The ninja can not leave the board, so <br>
 only the up and left buttons are active.    
 
-<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "630">
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/2def9bf4-bc43-4bc3-874b-1cbc4c383356" width = "600">
 <br>     
 <br>
 
