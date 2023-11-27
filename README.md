@@ -25,8 +25,10 @@ the ninja, the remove button also becomes active.
 <br>
 <br>
 
-Below is what the app looks like after pressing the remove button. The four blue squares
+Below is what the app looks like after pressing the remove button. The four blue squares <br>
 have been removed, the move count is incremented by one and the score count by four.
+
+
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "600">
 
 
