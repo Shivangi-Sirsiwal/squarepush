@@ -14,7 +14,7 @@ only the up and left buttons are active.
 <br>     
 <br>
 
-Below is what the board looks like after moving left. The two blue squares on the left <br>
+Below is what the app looks like after moving left. The two blue squares on the left <br>
 of the ninja have been pushed and the move count has been increased by one. The score <br>
 keeps track of how many colored squares the ninja has pushed. In this case, moving left <br>
 caused two colored squares to move, so the score increases by two. The left, up, and <br>
@@ -22,6 +22,13 @@ right buttons are now active, and because there is a 2x2 group of blue squares n
 the ninja, the remove button also becomes active.      
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/36070478-7ab5-4231-9b13-4773c134c6a6" width = "600">
+<br>
+<br>
+
+Below is what the app looks like after pressing the remove button. The four blue squares
+have been removed, the move count is incremented by one and the score count by four.
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "600">
+
 
 
 
