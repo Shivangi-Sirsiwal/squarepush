@@ -40,8 +40,9 @@ below, the ninja is still able to move up.
 <br>
 <br>
 
-Moving the ninja up causes the two red blocks that were previously at the top of the screen <br>
-to be pushed off the top of the board and wrap around to the bottom of the board.
+Moving the ninja up causes the two red blocks that were previously at the top of the <br>
+screen to be pushed off the top of the board and wrap around to the bottom of the <br>
+board, as seen below.
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/131b0ce7-b214-4d2c-8672-d8578a7d86a0" width = "600">
 
