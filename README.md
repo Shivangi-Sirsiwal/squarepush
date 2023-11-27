@@ -59,5 +59,9 @@ Upon completing the game, the app displays the congratulatory message shown belo
 ### 4x4 Configuration
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/40c9053a-f5ee-4cf6-8fc3-e0ee5c82c224" width = "600">
 
+### 6x6 Configuration
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/b12a31fb-faf3-4a18-8a90-7196bd755295" width = "600">
+
+
 
 In order to run this app, create a react app and replace the src with the one provided here. It is also neccessary to import the svg file in the repository public folder into the app's public folder. The app should then be useable via the npm start command.
