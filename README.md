@@ -63,5 +63,8 @@ Upon completing the game, the app displays the congratulatory message shown belo
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/b12a31fb-faf3-4a18-8a90-7196bd755295" width = "600">
 
 
+## Further Notes
 
-In order to run this app, create a react app and replace the src with the one provided here. It is also neccessary to import the svg file in the repository public folder into the app's public folder. The app should then be useable via the npm start command.
+*In order to run this app, create a react app and replace the src with the one provided here. It is also neccessary to import the svg file in the repository public folder into the new app's public folder. The app should then be useable via the npm start command.*
+
+*This code was created for the Individul Project Assignment in the WPI course CS3733 Software Engineering as taught by Professor George Heineman in B Term of the 2023 school year. The app concept, initial configuration layouts, and the ninja image were provided as a part of the assignment*
