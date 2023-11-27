@@ -1,6 +1,6 @@
 # squarepush
 
-### What is squarepush?
+## What is squarepush?
 
 squarepush is a game where the user can move a ninja charecter around a grid, pushing any colored blocks that may be near it. When a 2x2 group of a single color is present next to the ninja, the group becomes removable. The object of the game is to remove all the color from the grid.
 
