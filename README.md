@@ -30,6 +30,13 @@ have been removed, the move count is incremented by one and the score count by f
 
 
 <img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/08ebd921-ebb7-4436-99d8-b785838fd38a" width = "600">
+<br>
+<br>
+
+The ninja is also able to push colors off the screen, for example if the game is as shown <br>
+below, the ninja is still able to move up.
+
+<img src="https://github.com/Shivangi-Sirsiwal/squarepush/assets/152037538/1f244e81-a7e0-4319-a001-d9b5ee186045" width = "600">
 
 
 
